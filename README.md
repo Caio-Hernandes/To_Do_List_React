@@ -1,4 +1,5 @@
 📝 Descrição
+
 Uma aplicação de lista de tarefas (ToDo List) desenvolvida em React com funcionalidades CRUD completas. Permite adicionar, editar, remover e organizar tarefas, além de filtrar e ordenar por diferentes critérios. Possui suporte para tema claro/escuro e armazenamento local.
 
 ✨ Funcionalidades
