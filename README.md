@@ -52,4 +52,5 @@ Commit suas mudanças (git commit -m 'Add some AmazingFeature')
 Push para a branch (git push origin feature/AmazingFeature)
 
 Abra um Pull Request
-Feito por Caio Hernandes
+
+*Feito por Caio Hernandes*
