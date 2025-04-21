@@ -32,10 +32,14 @@ LocalStorage (para persistência de dados)
 UUID (para geração de IDs únicos)
 
 🚀 Como Executar o Projeto
-Clone o repositório:git clone https://github.com/seu-usuario/todo-list-react.git
-Instale as dependências:npm install
-Inicie o servidor de desenvolvimento:npm start
-Acesse no navegador:http://localhost:5173/
+-Clone o repositório:git clone https://github.com/seu-usuario/todo-list-react.git
+
+-Instale as dependências:npm install
+
+-Inicie o servidor de desenvolvimento:npm start
+
+-Acesse no navegador:http://localhost:5173/
+
 🤝 Contribuição
 Contribuições são bem-vindas! Siga os passos:
 
