@@ -1,12 +1,51 @@
-# React + Vite
+📝 Descrição
+Uma aplicação de lista de tarefas (ToDo List) desenvolvida em React com funcionalidades CRUD completas. Permite adicionar, editar, remover e organizar tarefas, além de filtrar e ordenar por diferentes critérios. Possui suporte para tema claro/escuro e armazenamento local.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Funcionalidades
+✅ Adicionar novas tarefas com nome, tipo, prioridade e horário
 
-Currently, two official plugins are available:
+✏️ Editar tarefas existentes
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🗑️ Remover tarefas
 
-## Expanding the ESLint configuration
+⬆️⬇️ Mover tarefas para cima/baixo na lista
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ Marcar tarefas como completas
+
+🔍 Filtrar tarefas por tipo, prioridade ou horário
+
+🔄 Ordenar tarefas por prioridade, tipo ou horário
+
+🌓 Alternar entre tema claro e escuro
+
+💾 Armazenamento local (as tarefas persistem após atualizar a página)
+
+🛠️ Tecnologias Utilizadas
+React
+
+JavaScript (ES6+)
+
+CSS (com variáveis para tema claro/escuro)
+
+LocalStorage (para persistência de dados)
+
+UUID (para geração de IDs únicos)
+
+🚀 Como Executar o Projeto
+Clone o repositório:git clone https://github.com/seu-usuario/todo-list-react.git
+Instale as dependências:npm install
+Inicie o servidor de desenvolvimento:npm start
+Acesse no navegador:http://localhost:5173/
+🤝 Contribuição
+Contribuições são bem-vindas! Siga os passos:
+
+Faça um fork do projeto
+
+Crie uma branch para sua feature (git checkout -b feature/AmazingFeature)
+
+Commit suas mudanças (git commit -m 'Add some AmazingFeature')
+
+Push para a branch (git push origin feature/AmazingFeature)
+
+Abra um Pull Request
+Feito por Caio Hernandes
